@@ -1,4 +1,4 @@
-# Arcadia
+# Awakened
 
 A mostly in-character wiki describing our TTRPG adventures in the world beyond the portals.
 
