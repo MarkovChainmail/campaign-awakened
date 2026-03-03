@@ -1,6 +1,8 @@
 # Arcadia
 
-This is a digital garden detailing the Dungeons and Dragons (5e) journey where the players join an expedition to explore the island of Arcadia.
+A mostly in-character wiki describing our TTRPG adventures in the world beyond the portals.
+
+This is a fork of Requiae's [Arcadia wiki](https://github.com/Requiae/campaign-arcadia).
 
 # Quartz Template
 
