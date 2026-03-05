@@ -25,3 +25,14 @@ All currently known Awakened people hold the Vanguard title. The description of 
 
 # Boon
 Some Awakened hold an additional Boon of a magical nature. This appears separate from the powers they get from their Class or Race.
+
+> [!quote] 4 Comments
+> > [!note|noicon] SenpaiNoticeMe
+> > sword art online real lol
+> > > [!note|noicon] yukiyuuna
+> > > Didn't they have headsets in that one? this is more like a portal fantasy... Solo leveling and such
+>
+> > [!note|noicon] Anonymous
+> > How do I become Awakened? I wanna be a wizard too!!
+> > > [!fail|noicon] [Mod] johnlocked
+> > > Do not discuss trying to become Awakened on this wiki

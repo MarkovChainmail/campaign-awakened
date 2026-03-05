@@ -8,3 +8,9 @@ marker:
 ---
 
 A rift above the Great Wall of China.
+
+---
+
+> [!quote] 1 Comments
+> > [!note|noicon] Anonymous
+> > Damn I was there not too long ago... I could've fallen in...

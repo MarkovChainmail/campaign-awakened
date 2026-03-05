@@ -8,3 +8,6 @@ marker:
 ---
 
 A rift that appeared on a piece of farmland in Texas, kidnapping a horde of cattle. Its owners went after it guns blazing, awakening in the process.
+
+---
+

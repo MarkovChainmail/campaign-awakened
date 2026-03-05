@@ -8,6 +8,10 @@ A group that Awakened near [[The Leiden Rift]]. They have successfully from the 
 Members:
 - [[LightningLux]] 
 - A wizard
-- A white werewolf
+- A [[CensoredWolf|white werewolf]]
 - A monk
 - A fighter 
+
+---
+
+> [!fail] Comments Section Unavailable
