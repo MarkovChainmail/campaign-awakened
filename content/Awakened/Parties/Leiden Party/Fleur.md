@@ -1,12 +1,12 @@
 ---
-title: White Wolf
+title: Fleur Dijkstra
 draft: false
 ---
 
 > [!infobox]
 > 
 > 
-> ## White Wolf
+> ## Fleur Dijkstra
 > 
 > 
 > 
@@ -14,14 +14,18 @@ draft: false
 > 
 > |            |                     |
 > | ---------- | ------------------- |
-> | **Class** | ??? |
-> | **Occupation** | ??? |
-> | **Nationality** | ??? |
+> | **Class** | Swordsage |
+> | **Titles** | Vanguard |
+> | **Occupation** | Romantasy Author |
+> | **Nationality** | Dutch |
 
 
 > [!warning] Article edit-locked
 
-The White Wolf (online sometimes nicknamed "CensoredWolf") is a person (?) who appeared on LightningLux's stream as a part of the Leiden Party.
+Fleur Dijkstra is the author of several books in the Romantasy genre, including:
+- The "Wild Hunt" series
+- "Dragon's Heat"
+- ["Fae Guardians: Dangerous Crow"](https://www.youtube.com/watch?v=YlejdeT4hco&t=3289s&pp=ygUSZGFuZ2Vyb3VzIGNyb3cgYm95), which went viral on Tiktok
 
 ---
 

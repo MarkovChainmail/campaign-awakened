@@ -7,10 +7,15 @@ A group that Awakened near [[The Leiden Rift]]. They have successfully returned 
 
 Members:
 - [[LightningLux]] 
-- A wizard
-- A [[CensoredWolf|white werewolf]]
-- A monk
-- A fighter 
+- [[Tom McClain|Tom]]
+- [[Fleur Dijkstra|Fleur]]
+- [[Heidi Fuchs|Heidi]]
+- [[Emma Delacroix-van Zuijle|Emma]]
+
+#### Expeditions
+- Falling into [[The Leiden Rift]] and ending up inside the [[Ant Cave]]. They Awakened during this expedition.
+- Going into [[The Leiden Rift]] again to save a group of soldiers stranded inside.
+- Going into [[The Groningen Rift]].
 
 ---
 

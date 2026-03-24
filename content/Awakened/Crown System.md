@@ -18,10 +18,14 @@ The Crown System grants one access to an Interface, even outside the Portals. Th
 A descriptor for a certain power set. Classes seem to have similar powersets.
 
 ## Race
-For nearly all awakened, this is Human, but there are exceptions. 
+For nearly all awakened, this is Human, but there are exceptions. [[Werewolf|CensoredWolf]] is the other known race. 
 
 # Titles
-All currently known Awakened people hold the Vanguard title. The description of this title in the Crown System indicates that they gained increased power upon Awakening. No other Titles are known.
+## Vanguard
+Receive increased power upon Awakening. Vanguards tend to have a Boon.
+
+## Riftwarden
+Riftwardens are capable of seeing the time until a Rift releases monsters.
 
 # Boon
 Some Awakened hold an additional Boon of a magical nature. This appears separate from the powers they get from their Class or Race.

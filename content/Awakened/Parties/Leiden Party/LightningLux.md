@@ -15,6 +15,7 @@ draft: false
 > |            |                     |
 > | ---------- | ------------------- |
 > | **Class** | Bard |
+> | **Titles** | Vanguard |
 > | **Occupation** | Streamer |
 > | **Nationality** | Dutch |
 

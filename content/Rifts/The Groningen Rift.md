@@ -7,7 +7,7 @@ marker:
     icon: lucide-door-closed
 ---
 
-A rift that appeared in the middle of nowhere in Groningen. Where it leads in the Overworld is currently unknown.
+A rift that appeared in the middle of nowhere in Groningen, swallowing a few cows. It leads to the [[City of Imortis]].
 
 ---
 

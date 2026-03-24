@@ -1,9 +1,15 @@
 ---
-title: Known Rifts
+title: Rifts
 draft: false
 ---
 
-# The Netherlands
+Rifts that appeared during the Shattering (March 1, 2023). Rifts lead to specific places on the [[Overworld]]. To return after entering a Rift, a power crystal is needed.
+
+Rifts have a "countdown" until new monsters are spawned in the overworld, which is delayed by killing monsters after entering the portal. A [[Crown System#Riftwarden]] can see this counter.
+
+# Rift Locations
+This section contains the locations of various rifts. There is also a list of [[Unspecified Rifts|rifts whose exact location is currently uncertain]].
+## The Netherlands
 ```base
 filters: file.hasProperty("marker")
 views:
@@ -20,7 +26,7 @@ views:
     unit: km
 ```
 
-# The United States of America
+## The United States of America
 ```base
 filters: file.hasProperty("marker")
 views:
@@ -37,7 +43,7 @@ views:
     unit: km
 ```
 
-# The Middle East
+## The Middle East
 ```base
 filters: file.hasProperty("marker")
 views:
@@ -54,7 +60,7 @@ views:
     unit: km
 ```
 
-# China
+## China
 ```base
 filters: file.hasProperty("marker")
 views:
@@ -63,6 +69,23 @@ views:
     mapName: china-rifts
     image: provinces-of-china-map.png
     minZoom: -1
+    maxZoom: 2
+    defaultZoom: -1
+    zoomDelta: 0.5
+    scale: "0.2"
+    height: 400
+    unit: km
+```
+
+## South America
+```base
+filters: file.hasProperty("marker")
+views:
+  - type: leaflet-map
+    name: Map
+    mapName: south-america-rifts
+    image: map-of-south-america.jpg
+    minZoom: 0
     maxZoom: 2
     defaultZoom: -1
     zoomDelta: 0.5
