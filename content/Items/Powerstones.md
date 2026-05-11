@@ -15,3 +15,4 @@ It appears to be possible for veins of Powerstones to occur naturally, as seen i
 Things that can be attempted with Powerstones:
 - Create "escape gates" while on Earth.
 - Give the powerstone to a member of a Crafting class and have them attempt to craft an item.
+- Take a creature from the Overworld back to Earth

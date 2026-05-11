@@ -22,7 +22,7 @@ draft: false
 
 > [!warning] Article edit-locked
 
-Fleur Dijkstra is the author of several books in the Romantasy genre, including:
+Fleur Dijkstra is the author of several books in the Romantasy genre under the pseudonym "Clare Delune", including:
 - The "Wild Hunt" series
 - "Dragon's Heat"
 - ["Fae Guardians: Dangerous Crow"](https://www.youtube.com/watch?v=YlejdeT4hco&t=3289s&pp=ygUSZGFuZ2Vyb3VzIGNyb3cgYm95), which went viral on Tiktok

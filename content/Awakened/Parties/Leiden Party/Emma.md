@@ -21,3 +21,11 @@ draft: false
 
 Emma Delacroix-van Zuijlen is the daughter of wealthy art trader Catherina van Zuijlen. 
 
+---
+
+> [!warning] 2 Comments
+> > [!note|noicon] Anonymous
+> > gurl we NEED the cookie recipe
+>
+> > [!fail|noicon] [banned]
+> > **Post deleted: inappropriate comment**

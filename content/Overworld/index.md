@@ -15,7 +15,9 @@ It is recommended not to attempt to enter the portals, as most wildlife beyond t
 # Life
 A variety of animal-like wildlife has been encountered, mostly giant versions of wildlife on Earth and hybrid animals.
 
-Thus far, no humanoid sentient life has been encountered on the other side of the rifts, though ruins such as the Temple in the [[Ant Cavern]] suggest that civilization does exist. It appears to be possible for Awakened to communicate with animals.
+Thus far, very little sentient life has been encountered on the other side of the rifts, though ruins such as the Temple in the [[Ant Cavern]] suggest that civilization has existed in the past. It appears to be possible for Awakened to communicate with animals.
+
+Undead are also present, such as those found in the [[City of Imortis]].
 
 # Biomes
 Many different kinds of Biomes have been found across the rifts, and there appears to be no particular correlation between location on Earth and location on the Overworld.
