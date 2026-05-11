@@ -41,6 +41,11 @@ The temple is covered in a thick layer of dust, and one corpse of a follower of 
 #### Bone Market
 A hub for necromancers to buy body parts for their undead experiments, positioned in the large abandoned skeleton of a Dragon.
 
+#### Graveyard
+Ghouls come here in small groups to dig up graves as resources. [[Iseah]] indicated that a lot of the graves here that haven't been robbed are probably trapped.
+
+There's a particular grave here for "Tallis the Butcher", a foul man that needed 4 knights to bring him down, who are buried there with him to watch over him for all eternity. There's also a statue of [[Xoros]] with a plea for him to keep his grip on the souls he watches over.
+
 ### Middle City
 The undead here are stronger and more aware than the undead of the Lower City.
 
